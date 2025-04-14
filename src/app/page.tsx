@@ -1,7 +1,7 @@
 import BlogSection from "@/components/section/BlogSection";
 import CallToActionSection from "@/components/section/CallToActionSection";
 import ContactSection from "@/components/section/ContactSection";
-import Hero from "@/components/section/Hero";
+import HeroSection from "@/components/section/HeroSection";
 import IntroSection from "@/components/section/IntroSection";
 import ResponsiveHighlightSection from "@/components/section/ResponsiveHighlight";
 import SecondarySection from "@/components/section/SecondaryCTA";
@@ -13,7 +13,7 @@ import WhyChooseUsSection from "@/components/section/WhyChooseUsSection";
 export default function Home() {
   return (
     <>
-      <Hero/>
+      <HeroSection/>
       <IntroSection />
       <TeamSection />
       <ServicesSection />
