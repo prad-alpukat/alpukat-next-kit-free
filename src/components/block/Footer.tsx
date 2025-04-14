@@ -1,4 +1,4 @@
-import SectionPlaceholder from "../block/SectionPlaceholder";
+import SectionPlaceholder from "./SectionPlaceholder";
 
 export default function Footer() {
     return (
