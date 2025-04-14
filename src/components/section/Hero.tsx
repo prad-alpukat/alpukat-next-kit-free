@@ -1,7 +1,7 @@
-import PlaceholderSection from "../block/PlaceholderSection";
+import SectionPlaceholder from "../block/SectionPlaceholder";
 
 export default function Hero() {
     return (
-        <PlaceholderSection text="Hero Section" />
+        <SectionPlaceholder text="Hero Section" />
     )
 }

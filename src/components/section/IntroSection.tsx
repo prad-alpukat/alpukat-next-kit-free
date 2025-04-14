@@ -1,7 +1,7 @@
-import PlaceholderSection from "../block/PlaceholderSection";
+import SectionPlaceholder from "../block/SectionPlaceholder";
 
 export default function IntroSection() {
     return (
-        <PlaceholderSection text="Intro Section" />
+        <SectionPlaceholder text="Intro Section" />
     )
 }

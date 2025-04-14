@@ -1,7 +1,7 @@
-import PlaceholderSection from "../block/PlaceholderSection";
+import SectionPlaceholder from "../block/SectionPlaceholder";
 
 export default function Footer() {
     return (
-        <PlaceholderSection text="Footer" />
+        <SectionPlaceholder text="Footer" />
     )
 }

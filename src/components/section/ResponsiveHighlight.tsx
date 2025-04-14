@@ -1,7 +1,7 @@
-import PlaceholderSection from "../block/PlaceholderSection";
+import SectionPlaceholder from "../block/SectionPlaceholder";
 
 export default function ResponsiveHighlightSection() {
     return (
-        <PlaceholderSection text="Responsive Hightlight Section" />
+        <SectionPlaceholder text="Responsive Hightlight Section" />
     )
 }

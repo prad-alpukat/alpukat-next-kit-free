@@ -1,7 +1,7 @@
-import PlaceholderSection from "../block/PlaceholderSection";
+import SectionPlaceholder from "../block/SectionPlaceholder";
 
 export default function CallToActionSection() {
     return (
-        <PlaceholderSection text="Call To Action Section" />
+        <SectionPlaceholder text="Call To Action Section" />
     )
 }

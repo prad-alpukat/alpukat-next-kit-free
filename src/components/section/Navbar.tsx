@@ -1,7 +1,7 @@
-import PlaceholderSection from "./PlaceholderSection";
+import SectionPlaceholder from "./SectionPlaceholder";
 
 export default function Navbar() {
     return (
-        <PlaceholderSection text="Navbar" />
+        <SectionPlaceholder text="Navbar" />
     )
 }

@@ -1,7 +1,7 @@
-import PlaceholderSection from "../block/PlaceholderSection";
+import SectionPlaceholder from "../block/SectionPlaceholder";
 
 export default function ShowcaseSection() {
     return (
-        <PlaceholderSection text="Showcase Section" />
+        <SectionPlaceholder text="Showcase Section" />
     )
 }

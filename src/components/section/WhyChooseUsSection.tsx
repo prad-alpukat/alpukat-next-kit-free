@@ -1,7 +1,7 @@
-import PlaceholderSection from "../block/PlaceholderSection";
+import SectionPlaceholder from "../block/SectionPlaceholder";
 
 export default function WhyChooseUsSection() {
     return (
-        <PlaceholderSection text="Why Choose Us Section" />
+        <SectionPlaceholder text="Why Choose Us Section" />
     )
 }
