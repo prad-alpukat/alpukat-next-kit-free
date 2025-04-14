@@ -1,4 +1,4 @@
-import PlaceholderSection from "./PlaceholderSection";
+import PlaceholderSection from "../block/PlaceholderSection";
 
 export default function SecondarySection() {
     return (
